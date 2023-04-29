@@ -8,6 +8,8 @@ pip install -r requirements.txt
 pip install -e src/
 
 ## Running the tests
+```
 pytest tests/unit
 pytest tests/integration
 pytest tests/e2e
+```
