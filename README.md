@@ -1,5 +1,10 @@
 # Instructions and Guidelines
 
+## Notes
+```
+No need to test email. Email accounts not active
+```
+
 ## Creating a local virtual environment
 py -3 -m venv venv
 
