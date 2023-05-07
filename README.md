@@ -3,7 +3,8 @@
 ## Notes
 ```
 No need to test email. Email accounts not active
-The test_concurrent_updates_to_version_are_not_allowed in test_uow is commented out. Similar test is covered in test_batches
+The test_concurrent_updates_to_version_are_not_allowed in test_uow is commented out.
+    Similar test is already covered in test_batches
 ```
 
 ## Creating a local virtual environment
